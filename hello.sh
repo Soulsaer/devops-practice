@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "Hello from GitHub Repository"
-date
-pwd
+mkdir devops
+echo "Bhuvnesh learning CI/CD" > devops/info.txt
+cat devops/info.txt
